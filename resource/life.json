@@ -1,0 +1,138 @@
+{
+  "floor1": [
+    {
+      "image": "banner_life_1.jpg",
+      "link": "https://www.sina.com.cn"
+    },
+    {
+      "image": "banner_life_2.jpg",
+      "link": "https://www.baidu.com"
+    },
+    {
+      "image": "banner_life_3.jpg",
+      "link": "https://cn.bing.com"
+    },
+    {
+      "image": "banner_life_4.jpg",
+      "link": "https://www.163.com"
+    },
+    {
+      "image": "banner_life_5.jpg",
+      "link": "https://news.qq.com"
+    }
+  ],
+  "floor2": [
+    {
+      "image": "ic_benefit_1.png",
+      "link": "https://www.sina.com.cn"
+    },
+    {
+      "image": "ic_benefit_2.png",
+      "link": "https://www.baidu.com"
+    },
+    {
+      "image": "ic_benefit_3.png",
+      "link": "https://cn.bing.com"
+    },
+    {
+      "image": "ic_benefit_4.png",
+      "link": "https://news.qq.com"
+    }
+  ],
+  "floor3": {
+    "image": "bg_bar_button.png",
+    "link": "https://www.sina.com.cn"
+  },
+  "floor4": {
+    "image": "bg_rect_button.png",
+    "link": "https://cn.bing.com"
+  },
+  "floor5": [
+    {
+      "image": "ic_category_1.png",
+      "link": "https://cn.bing.com",
+      "title": "美食"
+    },
+    {
+      "image": "ic_category_2.png",
+      "link": "https://www.sina.com.cn",
+      "title": "旅行"
+    },
+    {
+      "image": "ic_category_3.png",
+      "link": "https://news.qq.com",
+      "title": "医疗"
+    },
+    {
+      "image": "ic_category_4.png",
+      "link": "https://www.baidu.com",
+      "title": "商超"
+    },
+    {
+      "image": "ic_category_5.png",
+      "link": "https://www.163.com",
+      "title": "缴费"
+    },
+    {
+      "image": "ic_category_6.png",
+      "link": "http://www.people.com.cn",
+      "title": "影剧"
+    }
+  ],
+  "floor6": [
+    {
+      "image": "ic_discount_1.png",
+      "link": "https://cn.bing.com",
+      "title": "DYSON",
+      "subtitle": "龙卷风般的动力"
+    },
+    {
+      "image": "ic_discount_2.png",
+      "link": "https://www.sina.com.cn",
+      "title": "GODIVA",
+      "subtitle": "积分在手优惠我有"
+    },
+    {
+      "image": "ic_discount_3.png",
+      "link": "https://news.qq.com",
+      "title": "哈根达斯",
+      "subtitle": "积分在手优惠我有"
+    },
+    {
+      "image": "ic_discount_4.png",
+      "link": "https://www.baidu.com",
+      "title": "DYSON",
+      "subtitle": "电吹风电吹风"
+    }
+  ],
+  "floor7": [
+    {
+      "image": "ic_blog_1.png",
+      "link": "https://cn.bing.com",
+      "date": "9月7日",
+      "title": "如果再也不能见到你",
+      "keyword": ["美食","旅游"]
+    },
+    {
+      "image": "ic_blog_2.png",
+      "link": "https://www.sina.com.cn",
+      "date": "9月8日",
+      "title": "祝你早安，午安，晚安",
+      "keyword": ["美食","旅游","运动"]
+    },
+    {
+      "image": "ic_blog_3.png",
+      "link": "https://news.qq.com",
+      "date": "9月9日",
+      "title": "如果再也不能见到你",
+      "keyword": ["运动","美食","旅游"]
+    },
+    {
+      "image": "ic_blog_4.png",
+      "link": "https://www.baidu.com",
+      "date": "9月10日",
+      "title": "祝你早安，午安，晚安",
+      "keyword": ["旅游","美食","运动"]
+    }
+  ]
+}
