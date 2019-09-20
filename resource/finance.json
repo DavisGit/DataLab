@@ -1,0 +1,113 @@
+{
+  "floor1": [
+    {
+      "image": "img_xxinyongka1.png",
+      "link": "https://www.sina.com.cn"
+    },
+    {
+      "image": "img_xxinyongka2.png",
+      "link": "https://www.baidu.com"
+    },
+    {
+      "image": "img_xxinyongka3.png",
+      "link": "https://cn.bing.com"
+    }
+  ],
+  "floor2": [
+    {
+      "image": "img_jjk1.png",
+      "link": "https://www.sina.com.cn"
+    },
+    {
+      "image": "img_jjk2.png",
+      "link": "https://www.baidu.com"
+    },
+    {
+      "image": "img_jjk3.png",
+      "link": "https://cn.bing.com"
+    }
+  ],
+  
+  "floor3": [
+    {
+      "image": "ic_wdzh.png",
+      "link": "https://cn.bing.com",
+      "title": "我的账户"
+    },
+    {
+      "image": "ic_znzd.png",
+      "link": "https://www.sina.com.cn",
+      "title": "智能账单"
+    },
+    {
+      "image": "ic_mtk.png",
+      "link": "https://news.qq.com",
+      "title": "美团卡"
+    },
+    {
+      "image": "uc_sbk.png",
+      "link": "https://www.baidu.com",
+      "title": "社保卡"
+    },
+    {
+      "image": "ic_yldf.png",
+      "link": "https://www.163.com",
+      "title": "养老代发"
+    },
+    {
+      "image": "ic_bkjd.png",
+      "link": "http://www.people.com.cn",
+      "title": "办卡进度"
+    },
+    {
+      "image": "ic_fqzq.png",
+      "link": "https://www.sina.com.cn",
+      "title": "分期专区"
+    },
+    {
+      "image": "ic_jfsc.png",
+      "link": "https://news.qq.com",
+      "title": "积分商城"
+    },
+    {
+      "image": "ic_xykqy.png",
+      "link": "https://www.baidu.com",
+      "title": "信用卡启用"
+    },
+    {
+      "image": "ic_xykgs.png",
+      "link": "http://www.people.com.cn",
+      "title": "信用卡挂失"
+    }
+  ],
+  "floor4": [
+    {
+      "image": "ic_kxb.png",
+      "link": "https://cn.bing.com",
+      "title": "快线宝",
+      "subtitle": "年收益+0.45"
+    },
+    {
+      "image": "ic_znc.png",
+      "link": "https://www.sina.com.cn",
+      "title": "智能存",
+      "subtitle": "年收益+0.45"
+    },
+    {
+      "image": "ic_bx.png",
+      "link": "https://news.qq.com",
+      "title": "保险",
+      "subtitle": "保险保险保险"
+    }
+  ],
+  "floor5": [
+    {
+      "image": "ad_img_1.png",
+      "link": "https://www.sina.com.cn"
+    },
+    {
+      "image": "ad_img_2.png",
+      "link": "https://www.baidu.com"
+    }
+  ]
+}
